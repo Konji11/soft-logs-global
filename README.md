@@ -1,2 +1,2 @@
-# soft-logs-global
-    Soft Logs Global — Global digital services platform
+Stevian Logs Global 
+    Stevian Logs Global — Global digital services platform
